@@ -12,7 +12,7 @@ a taxa de juros anuais e por fim em quantos anos pretende
 pagar o empréstimo. Depois clique em calcular ou tecle ENTER.
 
 <p align="center">
-<img width="350" heigt="350"  src="./assets/gif.gif">
+<img width="550"  src="./assets/gif.gif">
 </p>
 
 ## Uso
@@ -22,6 +22,6 @@ para utilizar.
 ## Screenshots
 
 <p align="center">
-<img width="800" src="./assets/screenshot.png">
+<img width="500" src="./assets/screenshot.png">
 </p>
 
