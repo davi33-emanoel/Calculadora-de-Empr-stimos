@@ -15,7 +15,7 @@ a taxa de juros anuais e por fim em quantos anos pretende
 pagar o empréstimo.
 
 <p align="center">
-<img width="470" heigth="300" " src"./assets/to_readme/gif.gif">
+<img width="470" heigth="300" src"./assets/to_readme/gif.gif">
 </p>
 
 ## Uso
